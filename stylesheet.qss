@@ -1,0 +1,80 @@
+QWidget{
+    background: #7FF065;
+	border: none;
+	border-radius: 10px;
+}
+QTextEdit{
+	background-color: #F0EF4D;	
+	border: none;
+	border-radius: 10px;
+    text-align: center;
+}
+QTextEdit:hover{
+	background-color: #ff0;	
+	border: none;
+	border-radius: 10px;
+    text-align: center;
+}
+QPushButton{	
+	background-color: #991FAD;	
+	border: none;
+	border-radius: 10px;
+	color: #FFF;
+}
+
+QToolButton{	
+	background-color: #991FAD;	
+	border: none;
+	border-radius: 10px;
+	color: #FFF;
+}
+QSlider::groove:horizontal {
+    background: red;
+    position: absolute; /* absolutely position 4px from the left and right of the widget. setting margins on the widget should work too... */
+    left: 4px; right: 4px;
+}
+
+QSlider::handle:horizontal {
+    height: 10px;
+    background: #991FAD;
+    margin: 0 -4px; /* expand outside the groove */
+}
+
+QSlider::add-page:horizontal {
+    background: white;
+}
+
+QSlider::sub-page:horizontal {
+    background: #F900BF;
+}
+
+
+QComboBox 
+{
+subcontrol-origin: padding; 
+subcontrol-position: top right; 
+selection-background-color: transparent; 
+color: black; 
+background-color: transparent; 
+
+border-style: solid; 
+border: 1px solid #1e1e1e; 
+border-radius: 5; 
+padding: 1px 0px 1px 20px; 
+}
+
+
+QComboBox:hover
+{
+    background-color: transparent;
+    color: black; 
+}
+
+
+QComboBox:on
+{
+padding: 1px 0px 1px 20px; 
+color: black; 
+background-color: transparent; 
+}
+

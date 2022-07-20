@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>Python</ID>
+  <OriginalElement>#C:/Users/youvi/Virtual_Mouse/back/HandTrackingModule.py</OriginalElement>
+  <nodes>
+    <node x="-153.0" y="-15.0">back.HandTrackingModule.handDetector</node>
+  </nodes>
+  <notes />
+  <edges />
+  <settings layout="Hierarchic" zoom="0.9600000000000004" showDependencies="false" x="-1018.0000000000001" y="-123.0" />
+  <SelectedNodes>
+    <node>back.HandTrackingModule.handDetector</node>
+  </SelectedNodes>
+  <Categories>
+    <Category>Fields</Category>
+    <Category>Methods</Category>
+  </Categories>
+</Diagram>
+
