@@ -11,8 +11,7 @@ Enable the "camera control" checkbox to use gesture control.
 <br>2.Raise and lower your middle finger for a right click.
 <br>3.Raise and lower your thumb finger for a left click.
 <br>4.Touch the thumbs of the phalanx of the index finger to double-click the left mouse button.
-<br>5.Touch the thumbs of the phalanx of the index finger to double-click the left mouse button.
-<br>6.Raise and lower your little finger for frag-and-drop
+<br>5.Raise and lower your little finger for frag-and-drop
 
 
 Enable the "voice control" checkbox to use gesture control
